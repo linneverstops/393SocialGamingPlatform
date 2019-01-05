@@ -1,0 +1,42 @@
+TungHo Lin (Dennis) txl429
+Jiahao Luo (Adam) jxl1305
+EECs393 Software Engineering
+Final Project
+Social Gaming Platform
+README
+
+Thanks for taking the time to grade our project, here are a few things you need to know:
+
+*******IMPORTANT*******
+
+This project requires you to have brew and cocoa pods installed.
+For brew, please visit:
+https://brew.sh/
+For cocoapods install, please visit:
+https://stackoverflow.com/questions/20755044/how-to-install-cocoapods
+For cocoapods setup, please run the following line in Terminal:
+pod install
+
+Please reach out to us if you have problems running!!!
+
+When you open the source code folder, please use Xcode and open the file:
+SocialGamingPlatform.xcworkspace
+not the xcodeproj file.
+
+
+The app might be logged in because you might have logged in before.
+When you start our app and it is already logged in, please go to the Account tab and logout.
+If you are on the Login page, please use the following credentials to login (Case-sensitive):
+
+Account name: eecs393@case.edu
+Password: eecs393
+
+The reason for this setup is to ensure you log in with an account that has a lot of points so that
+you can test all our functions (buy games, powerups, levelups, etc)
+
+Notes:
+If you are planning to test our project on an actual iOS device, we would highly recommend
+iPhoneX or iPhoneXS since our project is based on that.
+This app might only work on iOS 10.0 or after.
+
+Please contact us if you have any trouble. Thank you!
